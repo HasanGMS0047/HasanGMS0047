@@ -1,16 +1,95 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HasanGMS0047/HasanGMS0047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated typing header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hasan+%F0%9F%91%8B;A+CS+Student+%F0%9F%8E%93;Learning+Machine+Learning+%F0%9F%A4%96;Building+Cool+Stuff+with+JS+%2F+React+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HasanGMS0047&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 Student, currently sharpening my skills in **Machine Learning** and **Full-Stack Web Development**
+- 🌱 Right now I'm learning **ML fundamentals**, **TypeScript**, and going deeper into **React & Node.js**
+- 💻 Comfortable with **JavaScript, Python, Java** — always experimenting with something new
+- 👯 Open to collaborating on web apps, ML mini-projects, or anything that helps me learn by building
+- 💬 Ask me about JS/TS, React, or anything I'm currently breaking and fixing in Python 🐍
+- ⚡ Fun fact: I learn best by building something *slightly* too ambitious and debugging my way through it
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/HasanGMS0047/algocanvas">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=HasanGMS0047&repo=algocanvas&theme=tokyonight&hide_border=true" alt="AlgoCanvas" />
+  </a>
+  <a href="https://github.com/HasanGMS0047/life-dashboard">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=HasanGMS0047&repo=life-dashboard&theme=tokyonight&hide_border=true" alt="Life Dashboard" />
+  </a>
+</p>
+
+- 🎨 **[AlgoCanvas](https://github.com/HasanGMS0047/algocanvas)** — An interactive canvas that visualizes algorithms (sorting, pathfinding, etc.) step-by-step so you can actually *see* how they work, built with **React + TypeScript**.
+- 📊 **[Life Dashboard](https://github.com/HasanGMS0047/life-dashboard)** — A personal dashboard for tracking daily goals, habits, and productivity in one place, built with **React + Node.js**.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,vscode&theme=dark" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Learning ML" />
+  <img src="https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Learning TypeScript" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HasanGMS0047&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanGMS0047&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HasanGMS0047&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanGMS0047&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HasanGMS0047&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:hasantheking007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Yes, it's <code>hasantheking007</code> — made when I was a kid and, apparently, already king of something 👑😂 It's stuck ever since, embrace it.</sub>
+</p>
+
+<div align="center">
+  <sub>Thanks for stopping by — feel free to explore my repos ⭐</sub>
+</div>
