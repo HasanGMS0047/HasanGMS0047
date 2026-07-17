@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hasan+%F0%9F%91%8B;A+CS+Student+%F0%9F%8E%93;Learning+Machine+Learning+%F0%9F%A4%96;Building+Cool+Stuff+with+JS+%2F+React+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hasan;A+CS+Student;Learning+Machine+Learning;Building+Things+with+JS+and+React" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,34 +13,33 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 Student, currently sharpening my skills in **Machine Learning** and **Full-Stack Web Development**
-- 🌱 Right now I'm learning **ML fundamentals**, **TypeScript**, and going deeper into **React & Node.js**
-- 💻 Comfortable with **JavaScript, Python, Java** — always experimenting with something new
-- 👯 Open to collaborating on web apps, ML mini-projects, or anything that helps me learn by building
-- 💬 Ask me about JS/TS, React, or anything I'm currently breaking and fixing in Python 🐍
-- ⚡ Fun fact: I learn best by building something *slightly* too ambitious and debugging my way through it
+I'm a student focused on machine learning and full-stack web development. I'm currently learning ML fundamentals and TypeScript, and getting more comfortable with React and Node.js. I already work with JavaScript, Python, and Java, and I'm always picking up something new along the way.
+
+I'm open to collaborating on web apps or small ML projects, especially if it's a good excuse to learn something by building it. If you want to talk about JS, TypeScript, React, or whatever I'm currently debugging in Python, feel free to reach out.
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-- 🎨 **[AlgoCanvas](https://github.com/HasanGMS0047/algocanvas)** — An interactive canvas that visualizes algorithms (sorting, pathfinding, etc.) step-by-step so you can actually *see* how they work, built with **React + TypeScript**.
-  <br />
-  <img src="https://img.shields.io/github/stars/HasanGMS0047/algocanvas?style=flat-square&color=6C63FF" alt="AlgoCanvas Stars" />
-  <img src="https://img.shields.io/github/languages/top/HasanGMS0047/algocanvas?style=flat-square&color=3178C6" alt="AlgoCanvas Top Language" />
-  <img src="https://img.shields.io/github/last-commit/HasanGMS0047/algocanvas?style=flat-square&color=success" alt="AlgoCanvas Last Commit" />
+**[AlgoCanvas](https://github.com/HasanGMS0047/algocanvas)**
+An interactive canvas that visualizes algorithms such as sorting and pathfinding step by step, so you can actually see how they work. Built with React and TypeScript.
 
-- 📊 **[Life Dashboard](https://github.com/HasanGMS0047/life-dashboard)** — A personal dashboard for tracking daily goals, habits, and productivity in one place, built with **React + Node.js**.
-  <br />
-  <img src="https://img.shields.io/github/stars/HasanGMS0047/life-dashboard?style=flat-square&color=6C63FF" alt="Life Dashboard Stars" />
-  <img src="https://img.shields.io/github/languages/top/HasanGMS0047/life-dashboard?style=flat-square&color=3178C6" alt="Life Dashboard Top Language" />
-  <img src="https://img.shields.io/github/last-commit/HasanGMS0047/life-dashboard?style=flat-square&color=success" alt="Life Dashboard Last Commit" />
+<img src="https://img.shields.io/github/stars/HasanGMS0047/algocanvas?style=flat-square&color=6C63FF" alt="AlgoCanvas Stars" />
+<img src="https://img.shields.io/github/languages/top/HasanGMS0047/algocanvas?style=flat-square&color=3178C6" alt="AlgoCanvas Top Language" />
+<img src="https://img.shields.io/github/last-commit/HasanGMS0047/algocanvas?style=flat-square&color=success" alt="AlgoCanvas Last Commit" />
+
+**[Life Dashboard](https://github.com/HasanGMS0047/life-dashboard)**
+A personal dashboard for tracking daily goals, habits, and productivity in one place. Built with React and Node.js.
+
+<img src="https://img.shields.io/github/stars/HasanGMS0047/life-dashboard?style=flat-square&color=6C63FF" alt="Life Dashboard Stars" />
+<img src="https://img.shields.io/github/languages/top/HasanGMS0047/life-dashboard?style=flat-square&color=3178C6" alt="Life Dashboard Top Language" />
+<img src="https://img.shields.io/github/last-commit/HasanGMS0047/life-dashboard?style=flat-square&color=success" alt="Life Dashboard Last Commit" />
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,vscode&theme=dark" alt="Tech Stack Icons" />
@@ -53,26 +52,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/HasanGMS0047?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/HasanGMS0047?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6C63FF" alt="Total Stars" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HasanGMS0047&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanGMS0047&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+<p align="center"><sub>Generated automatically once a day by a GitHub Action in this repository, so it stays up to date without relying on a third-party server.</sub></p>
 
 ---
 
-### 📫 Let's Connect
+### Contact
 
 <p align="center">
   <a href="mailto:hasantheking007@gmail.com">
@@ -81,9 +71,9 @@
 </p>
 
 <p align="center">
-  <sub>Yes, it's <code>hasantheking007</code> — made when I was a kid and, apparently, already king of something 👑😂 It's stuck ever since, embrace it.</sub>
+  <sub>The email is <code>hasantheking007</code>, made when I was a kid and clearly convinced of my own royal status. It stuck, so I've made peace with it.</sub>
 </p>
 
 <div align="center">
-  <sub>Thanks for stopping by — feel free to explore my repos ⭐</sub>
+  <sub>Thanks for stopping by. Feel free to look through my repositories.</sub>
 </div>
