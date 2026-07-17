@@ -26,17 +26,17 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/HasanGMS0047/algocanvas">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=HasanGMS0047&repo=algocanvas&theme=tokyonight&hide_border=true" alt="AlgoCanvas" />
-  </a>
-  <a href="https://github.com/HasanGMS0047/life-dashboard">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=HasanGMS0047&repo=life-dashboard&theme=tokyonight&hide_border=true" alt="Life Dashboard" />
-  </a>
-</p>
-
 - 🎨 **[AlgoCanvas](https://github.com/HasanGMS0047/algocanvas)** — An interactive canvas that visualizes algorithms (sorting, pathfinding, etc.) step-by-step so you can actually *see* how they work, built with **React + TypeScript**.
+  <br />
+  <img src="https://img.shields.io/github/stars/HasanGMS0047/algocanvas?style=flat-square&color=6C63FF" alt="AlgoCanvas Stars" />
+  <img src="https://img.shields.io/github/languages/top/HasanGMS0047/algocanvas?style=flat-square&color=3178C6" alt="AlgoCanvas Top Language" />
+  <img src="https://img.shields.io/github/last-commit/HasanGMS0047/algocanvas?style=flat-square&color=success" alt="AlgoCanvas Last Commit" />
+
 - 📊 **[Life Dashboard](https://github.com/HasanGMS0047/life-dashboard)** — A personal dashboard for tracking daily goals, habits, and productivity in one place, built with **React + Node.js**.
+  <br />
+  <img src="https://img.shields.io/github/stars/HasanGMS0047/life-dashboard?style=flat-square&color=6C63FF" alt="Life Dashboard Stars" />
+  <img src="https://img.shields.io/github/languages/top/HasanGMS0047/life-dashboard?style=flat-square&color=3178C6" alt="Life Dashboard Top Language" />
+  <img src="https://img.shields.io/github/last-commit/HasanGMS0047/life-dashboard?style=flat-square&color=success" alt="Life Dashboard Last Commit" />
 
 ---
 
@@ -56,8 +56,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HasanGMS0047&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanGMS0047&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/HasanGMS0047?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/HasanGMS0047?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6C63FF" alt="Total Stars" />
 </p>
 
 <p align="center">
@@ -68,12 +68,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanGMS0047&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HasanGMS0047&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
